@@ -1,6 +1,6 @@
 ## Deploying webapp to Google Cloud from GitHub repository
 
-1. Redeem the free student google cloud credit by following instructions from announcement email last Friday.
+1. Redeem the free student google cloud credit by following instructions from announcement on BruinLearn.
 
 2. Make a fork of this repository.
 
