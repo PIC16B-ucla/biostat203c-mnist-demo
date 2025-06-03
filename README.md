@@ -7,7 +7,7 @@
 ### Testing locally
 3. Copy this repo into your local computer. Both `git clone` and downloading the zip file works.
 
-4. Inside the code folder `pic16b-mnist-demo`, run 
+4. Inside the code folder `biostat203c-mnist-demo`, run 
  ```
 conda activate BIOSTAT203C-25S
 python app.py
